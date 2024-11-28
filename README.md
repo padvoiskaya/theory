@@ -1,8 +1,8 @@
 # theory
 Теория тестирования
 
-Определение методов, типов и уровней тестирования для приложения интернет-магазин:
+### Определение методов, типов и уровней тестирования для приложения интернет-магазин
 
-## Documentation
+Документ, который содержит информацию о методах, типах и уровнях тестирования для приложения интернет-магазин, доступен по следующей ссылке:
 
-[Documentation](https://docs.google.com/spreadsheets/d/1XGZyMbY3ehpbNS61wn0haW7fKQXHZu68Ikj-SuCfkX8/edit?usp=sharing)
+[Перейти к документу](https://docs.google.com/spreadsheets/d/1XGZyMbY3ehpbNS61wn0haW7fKQXHZu68Ikj-SuCfkX8/edit?usp=sharing)
